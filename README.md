@@ -17,7 +17,7 @@
 
 <h3 align="left">Learning Coding Challenges</h3>
 <p align="left">
-<a href="https://www.leetcode.com/anandapurvaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anandapurvaa" height="50" width="100" /></a>
+<a href="https://www.leetcode.com/anandapurvaa" target="_blank">LeetCode</a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
