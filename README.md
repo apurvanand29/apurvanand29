@@ -13,7 +13,7 @@
 
 - 📫 Reach me **aanand24@hawk.iit.edu**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/1v65gIhIpJZaZlDaS3008_qdglVhNPLAl)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hg6q9uNiPimQaMZDbwzSISRJsWRkD82X/view)
 
 <h3 align="left">Learning Coding Challenges</h3>
 <p align="left">
