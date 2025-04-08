@@ -4,7 +4,7 @@
 
 - 🔭 Created a dashboard for P&L [Data Analytics](https://public.tableau.com/app/profile/apurvaanand/vizzes)
 
-- 🌱 Learning **Data Analytics, Visualization, and Product Management**
+- 🌱 Working on **Performance Testing, and API Testing**
 
 - 👯 I’m looking to collaborate on **Manual and Automation Testing**
 
