@@ -6,13 +6,11 @@
 
 - 🌱 Learning **Data Analytics, Visualization, and Product Management**
 
-- 👯 I’m looking to collaborate on **PM and Automation Testing**
+- 👯 I’m looking to collaborate on **Manual and Automation Testing**
 
 - 💬 Ask me about **Manual Testing, Automation Testing, Project Management, Product Management, Agile, Data Analysis, Visualization**
 
-- 📫 Reach me **aanand24@hawk.iit.edu** | **[LinkedIn](https://www.linkedin.com/in/apurvaanand24)**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15uxm-N8KymZXc9cAtT_elpyR_Fy7TpkZ/view)
+- 📫 Reach me **apurvaanand24@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/apurvaanand24)**
 
 <h3 align="left">Learning Coding Challenges</h3>
 <p align="left">
