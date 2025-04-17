@@ -27,8 +27,7 @@ I'm passionate about ensuring software works as intended, delivering smooth user
 
 ## What I’m Working On
 
-- Transitioning into **Product Management** to blend my QA experience with product strategy and user-centric development.
-- Building side projects that apply QA principles in real-world workflows.
+- Building projects that apply QA principles in real-world workflows.
 - Learning tools like **Postman, Playwright, Python, and AWS** to expand my testing scope and technical breadth.
 <h3 align="left">Learning Coding Challenges</h3>
 <p align="left">
