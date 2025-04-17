@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=apurvanand29&label=Profile%20views&color=0e75b6&style=flat" alt="apurvanand29" /> </p>
+
 # 👋 Hi, I'm Apurva, a bug detector!
 
 🎓 I'm a Master's student in Information Technology and Management at Illinois Tech, graduating in May 2025. With 4+ years of experience in software quality assurance, I specialize in both **automation and manual testing** of web applications.
