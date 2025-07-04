@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Apurva, a bug detector!
 
-🎓 I'm a Master's student in Information Technology and Management at Illinois Tech, graduating in May 2025. With 4+ years of experience in software quality assurance, I specialize in both **automation and manual testing** of web applications.
+🎓 I'm a Masters graduate in ITM, May 2025. With 4+ years of experience in software quality assurance, I specialize in both **automation and manual testing** of web applications.
 
 
 
@@ -13,9 +13,9 @@ I'm passionate about ensuring software works as intended, delivering smooth user
 
 - **Testing Expertise**:
   - Manual Testing: Regression, Functional, Exploratory, Smoke, Sanity, API, Non-Functional
-  - Automation Testing: Selenium WebDriver with Java
+  - Automation Testing: Selenium WebDriver with Java, PlayWright with JavaScript
   - BDD Testing: Cucumber with Gherkin syntax
-  - Test Frameworks: TestNG
+  - Test Frameworks: TestNG, Maven
   - Version Control: Git & GitHub
 
 - I identify bugs early and advocate for users by ensuring the product aligns with both technical requirements and business goals.
